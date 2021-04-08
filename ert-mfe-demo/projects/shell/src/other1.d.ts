@@ -1,0 +1,1 @@
+declare module 'other1/OtherRepoModule'
